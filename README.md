@@ -15,6 +15,8 @@ DSA Project implementing Dijkstra's, BFS, Prim's and Kruskal's Algorithm on a gr
 ## Installation
 
 1.Install Python
+
+
 2.Git Clone the project and run the final.py file
 
 ## Usage
