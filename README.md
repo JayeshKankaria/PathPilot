@@ -4,18 +4,18 @@ Your one stop CLI solution for all metro needs
 
 ## Description
 
-Briefly describe your project and its purpose. Explain what it does and why it's useful.
+DSA Project implementing Dijkstra's, BFS, Prim's and Kruskal's Algorithm on a graph representing Delhi Metro Network
 
 ## Features
-
-List the key features of your project. For instance:
-- Shortest path finding using various algorithms (Dijkstra's, BFS, etc.)
-- Minimum Spanning Tree calculations (Prim's, Kruskal's)
-- Incorporation of travel time and cost in the metro network
+- Shortest path finding using BFS Algorithm
+- Shortest distance using Dijkstra's Algorithm
+- Minimum Spanning Tree calculations to find shortest time using Prim's Algorithm
+- Minimum Spanning Tree calculations to find least cost using Kruskal's Algorithm
 
 ## Installation
 
-1. Git Clone the project and run the final.py file
+1.Install Python
+2.Git Clone the project and run the final.py file
 
 ## Usage
 
