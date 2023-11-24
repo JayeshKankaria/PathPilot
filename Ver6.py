@@ -207,6 +207,7 @@ while True:
         end_station = int(input("Enter the end station number: "))
         mst_prim = metro_graph.prim_minimum_spanning_tree(start_station, end_station)
         total_travel_time = sum(edge[2] for edge in mst_prim)
+        #To make the values more realistic
         if(len(str(total_travel_time)) > 2):
             total_travel_time = int(total_travel_time / 10)
         print("----------------------------------")
@@ -217,6 +218,7 @@ while True:
         end_station = int(input("Enter the end station number: "))
         mst_kruskal = metro_graph.kruskal_minimum_spanning_tree(start_station, end_station)
         total_cost = sum(edge[2] for edge in mst_kruskal)
+        #To make the values more realistic
         if (len(str(total_cost)) > 2):
             total_cost = int(total_cost / 10)
         print("----------------------------------")
