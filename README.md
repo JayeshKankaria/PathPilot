@@ -40,4 +40,4 @@ Acknowledge any resources, libraries, or individuals whose work you used or foun
 
 Provide contact information or ways for users to reach out for support, feedback, or questions.
 
----.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
